@@ -8,7 +8,7 @@ This project was developed as part of a frontend developer assignment to demonst
 
 ## 🚀 Live Demo
 
-🌐 [View Live on Netlify](https://your-netlify-link.netlify.app)
+🌐 [View Live on Netlify](https://subtle-squirrel-0c4651.netlify.app/)
 
 ---
 
